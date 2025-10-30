@@ -1,0 +1,8 @@
+moviepy==1.0.3
+edge-tts>=7.2.3
+pydub==0.25.1
+requests==2.31.0
+python-dotenv==1.0.0
+pillow>=10.4.0,<11.0.0
+numpy>=2.3.0
+streamlit>=1.28.0
